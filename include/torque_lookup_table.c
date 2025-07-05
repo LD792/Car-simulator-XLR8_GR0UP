@@ -170,4 +170,4 @@ const TorqueEntry LAMBO_TORQUE_TABLE[] = {
 };
 
 // Define the size of the torque table array.
-const LAMBO_TORQUE_TABLE_SIZE = sizeof(LAMBO_TORQUE_TABLE) / sizeof(LAMBO_TORQUE_TABLE[0]);
+const size_t  LAMBO_TORQUE_TABLE_SIZE = sizeof(LAMBO_TORQUE_TABLE) / sizeof(LAMBO_TORQUE_TABLE[0]);
